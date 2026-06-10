@@ -1,10 +1,10 @@
 # Hi, I'm Lakshmi Hasa 👋
 
-**AI/ML Engineer in the making** · I build end-to-end machine learning systems that solve real problems — from clinical risk prediction to intelligent data products.
+**AI/ML Engineer in the making** · I build end-to-end machine learning systems that solve real problems from clinical risk prediction to intelligent data products.
 
 📧 [lakshmihasa2003@gmail.com](mailto:lakshmihasa2003@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/lakshmi-hasa-190545278/)
 
----
+
 
 ## 🚀 What I'm building
 
@@ -21,7 +21,7 @@
 
 - **Stack** — Next.js 14 · FastAPI · PostgreSQL · OpenAI · Deployed on Render
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -57,7 +57,7 @@
 | 📊 [InsightForge AI](https://github.com/Lakshmihasa/insightforge-ai) | AI-powered CSV analytics SaaS | Next.js · FastAPI · PostgreSQL | ✅ Live |
 | 🛒 E-Commerce Intelligence Engine | RFM segmentation + LLM recommendations | Python · FastAPI · Next.js | 📅 Coming soon |
 
----
+
 
 ## 📈 GitHub Stats
 
@@ -66,7 +66,7 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmihasa&layout=compact&theme=default&hide_border=true" />
 </p>
 
----
+
 
 ## 🎯 Currently
 
@@ -74,14 +74,14 @@
 - 📚 Deepening expertise in LLMOps, responsible AI, and ML system design
 - 🔍 Exploring **AI/ML Engineer** and **Applied AI** opportunities
 
----
+
 
 ## 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmi-hasa-190545278/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lakshmihasa2003@gmail.com)
 
----
+
 
 <p align="center"><i>"Build things that matter. Explain things that work."</i></p>
 
