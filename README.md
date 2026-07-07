@@ -91,14 +91,6 @@
 
 ---
 
-## 🎯 Currently
-
-- 🏗️ Building **Clinical Risk Intelligence Platform** — production ML system with autonomous AI agents
-- 📚 Deepening expertise in LLMOps, responsible AI, and ML system design
-- 🔍 Exploring **AI/ML Engineer** and **Applied AI** opportunities
-  
-
----
 
 ## 📫 Let's connect
 
