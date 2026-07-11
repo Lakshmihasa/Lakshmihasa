@@ -44,6 +44,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
+
 **LLMs & RAG**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
