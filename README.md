@@ -1,5 +1,6 @@
 # Hi, I'm Lakshmi Hasa 👋
 
+
 **AI/ML Engineer in the making** · I build and ship end-to-end AI systems from ML pipelines to LLM applications and MLOps.
 
 📧 [lakshmihasa2003@gmail.com](mailto:lakshmihasa2003@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/lakshmi-hasa-190545278/)
