@@ -1,7 +1,5 @@
 # Hi, I'm Lakshmi Hasa 👋
 
-· building ML systems end-to-end
-
 I build ML systems end-to-end — from fine-tuning and evaluating LLMs to serving them behind real, monitored infrastructure. I care about evidence: my projects ship with benchmarks, metrics, and dashboards, because I don't trust improvements I can't measure.
 
 📫 lakshmihasap22@gmail.com · [LinkedIn](https://linkedin.com/in/Lakshmihasa)
