@@ -1,6 +1,6 @@
 # Hi, I'm Lakshmi Hasa 👋
 
-**B.Tech Computer Science, Data Science specialization** · building ML systems end-to-end
+· building ML systems end-to-end
 
 I build ML systems end-to-end — from fine-tuning and evaluating LLMs to serving them behind real, monitored infrastructure. I care about evidence: my projects ship with benchmarks, metrics, and dashboards, because I don't trust improvements I can't measure.
 
